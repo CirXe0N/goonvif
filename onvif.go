@@ -11,10 +11,10 @@ import (
 	"strings"
 
 	"github.com/beevik/etree"
-	Device "github.com/larryhu/goonvif/device"
-	"github.com/larryhu/goonvif/discover"
-	"github.com/larryhu/goonvif/networking"
-	"github.com/larryhu/goonvif/soap"
+	Device "github.com/CirXe0N/goonvif/device"
+	"github.com/CirXe0N/goonvif/discover"
+	"github.com/CirXe0N/goonvif/networking"
+	"github.com/CirXe0N/goonvif/soap"
 )
 
 // Xlmns xlmns

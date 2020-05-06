@@ -1,4 +1,4 @@
-module github.com/larryhu/goonvif
+module github.com/CirXe0N/goonvif
 
 go 1.12
 

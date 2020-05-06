@@ -9,9 +9,9 @@ import (
 	"strings"
 
 	"github.com/beevik/etree"
-	"github.com/larryhu/goonvif"
-	"github.com/larryhu/goonvif/device"
-	"github.com/larryhu/goonvif/discover"
+	"github.com/CirXe0N/goonvif"
+	"github.com/CirXe0N/goonvif/device"
+	"github.com/CirXe0N/goonvif/discover"
 )
 
 func main() {

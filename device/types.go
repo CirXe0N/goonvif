@@ -1,8 +1,8 @@
 package device
 
 import (
-	"github.com/larryhu/goonvif/xsd"
-	"github.com/larryhu/goonvif/xsd/onvif"
+	"github.com/CirXe0N/goonvif/xsd"
+	"github.com/CirXe0N/goonvif/xsd/onvif"
 )
 
 type Service struct {
